@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Typescript plugin for CSS modules.",
   "main": "src/index.ts",
-  "repository": "https://github.com/ybkimm/ts-plugin-css.git",
+  "repository": "git://github.com/ybkimm/ts-plugin-css.git",
   "author": "Yongbin Kim <iam@yongbin.kim>",
   "license": "MIT",
   "private": false,
